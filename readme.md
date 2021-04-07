@@ -3,7 +3,7 @@
 Ce référentiel contient les exercices pratiques de laboratoire pour le cours Microsoft [DP-900 *Microsoft Azure AI Notions Fondamentales*](https://docs.microsoft.com/fr-fr/learn/certifications/courses/dp-900t00) et les [modules autodidactes sur Microsoft Learn](https://docs.microsoft.com/fr-fr/users/23110622/collections/0kjyh8rn5gdrjj/). Les laboratoires sont conçus pour accompagner les supports de cours d'apprentissage et vous permettre de vous exercer à utiliser les technologies qu'ils décrivent. 
 
 - **[Télécharger le dernier manuel du participant et le contenu de tous les fichiers](../../releases/latest)**
-- **Êtes-vous un MCT ?** -  Jetez un œil à notre [Guide de l’utilisateur GitHub pour MCT](https://microsoftlearning.github.io/MCT-User-Guide/)
+- **Êtes-vous un MCT ?** -  Jetez un œil à notre [Guide de l’utilisateur GitHub pour MCT](https://microsoftlearning.github.io/MCT-User-Guide-FR/)
 - **Vous devez créer manuellement les instructions des ateliers ?** - Les instructions sont disponibles dans le référentiel [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build)
 
 ## Que faisons-nous ?
