@@ -1,3 +1,12 @@
+**Important Notice!**
+
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.fr-fr) on December 18th 2021. We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+After a short interval, this repo will be archived.
+
+**Contributions**
+
+At this time, we are not accepting external contributions to this repo. If you have suggestions or spot any errors, please create a pull request or report an issue on the [new repo](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.fr-fr).
+
 # Principes fondamentaux des données Microsoft Azure
 
 Ce référentiel contient les exercices pratiques de laboratoire pour le cours Microsoft [DP-900 *Microsoft Azure AI Notions Fondamentales*](https://docs.microsoft.com/fr-fr/learn/certifications/courses/dp-900t00) et les [modules autodidactes sur Microsoft Learn](https://docs.microsoft.com/fr-fr/users/23110622/collections/0kjyh8rn5gdrjj/). Les laboratoires sont conçus pour accompagner les supports de cours d'apprentissage et vous permettre de vous exercer à utiliser les technologies qu'ils décrivent. 
